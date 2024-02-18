@@ -1,0 +1,29 @@
+
+.container{
+    align-items: center; background-color: black; margin-left: 15%; margin-right: 15%; text-align: center; color: white;
+    color: rgb(6, 161, 76);
+}
+
+button{
+    display: flex; flex-direction: row; color: white; background-color: rgb(1, 41, 3); font-size:large; border-radius: 20px; padding: 15px; width: 200px; font-weight: bolder;
+}
+
+.finish{
+    background-color: white; color: rgb(4, 32, 21); margin-left: 30%; margin-right: 30%;  font-weight: bolder; width: 250px;
+
+}
+em{color: rgb(240, 101, 58); font-weight: bolder;
+}
+
+.greetings{
+    color: white; background-color: rgb(2, 34, 12); border-radius: 20px; font-weight: bold;height: 60px;
+}
+.specialbuttons{
+    display: flex; flex-direction: row; 
+}
+h1{
+    background-color: white; border-radius: 10px;
+}
+.rest{
+    color: antiquewhite; background-color: rgb(211, 27, 27);
+}
